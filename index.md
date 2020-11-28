@@ -8,7 +8,7 @@
       <p><b>地址: 浙江省宁波市鄞州区邱隘镇浙江万里学院， 邮编513000</b></p>
     </td>
     <td width=" 25%" >
-      <img src=" /QQ图片Lzy020912.jpg" width=" 100%">     % 插入证件照代码
+      <img src=" /Lzy020912.jpg" width="100Lzy020912">
     </td>
   </tr>
 </table>
