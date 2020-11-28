@@ -8,7 +8,7 @@
       <p><b>地址: 浙江省宁波市鄞州区邱隘镇浙江万里学院， 邮编513000</b></p>
     </td>
     <td width=" 25%" >
-      <img src=" /Lzy020912.jpg" width="100Lzy020912">
+      <img src=" /https://github.com/lzy020912/lzy020912.io/blob/main/lzy020912.jpg" width="100%">
     </td>
   </tr>
 </table>
